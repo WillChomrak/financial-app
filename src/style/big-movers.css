@@ -1,0 +1,14 @@
+.big-movers-component {
+  grid-column: 7 / 9;
+  grid-row: 2 / 4;
+}
+.big-movers-component p:nth-child(even) {
+  padding-bottom: 20px;
+}
+
+.neg-percent {
+  color: red;
+}
+.pos-percent {
+  color: green;
+}

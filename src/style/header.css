@@ -1,0 +1,7 @@
+header {
+  grid-column: 1 / 11;
+  grid-row: 1;
+  /* background-color: rgb(78, 78, 78); */
+  padding-top: 5px;
+  border-bottom: none !important;
+}

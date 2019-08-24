@@ -1,0 +1,3 @@
+Just finished putting the API searching and fuzzy searching into their own files.
+I've almost finished the logic for the search component.
+I should begin designing the UI.

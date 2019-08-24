@@ -1,0 +1,15 @@
+.graph-component {
+  grid-column: 3 / 7;
+  grid-row: 2 / 6;
+  max-height: 85%;
+  padding-bottom: 17px;
+}
+.graph-btn {
+  cursor: pointer;
+}
+.graph-btn-active {
+  border-bottom: 1px solid black;
+}
+.graph-btn:focus {
+  outline: none;
+}
